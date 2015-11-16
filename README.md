@@ -54,9 +54,11 @@ Los css son las hojas de estilos de toda la pagina web. Haciendo usp, he dado fo
 Voy a poner una captura de cada .css, pero completos están aquí:
 
 style.css:
+
 ![style.css](https://i.gyazo.com/56bfe718df5a8205af5b4daf2f6b1c9c.png)
 
 layout.css:
+
 ![layout.css](https://i.gyazo.com/c6712cdbeb050e4c4593aa5a20468a83.png)
 
 reset.css:
