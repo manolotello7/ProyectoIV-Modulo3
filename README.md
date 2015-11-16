@@ -44,3 +44,23 @@ De la aplicación se encargará @javiergama8, el buscador de dominio lo realizar
 ###Licencia
 
 La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permiso a cualquier persona u organización para realizar modificaciones sobre la misma, además de poder realizar copias y distribuir tanto la versión original como la modificada, pudiendo cobrar o no por ello, pero siempre permaneciendo el mismo como software libre.
+
+
+#Tercer Hito.
+
+**En este hito yo me encargo de hacer los css de la página.**
+Los css son las hojas de estilos de toda la pagina web. Haciendo usp, he dado forma a la web en estructuración, color, imagenes, etc... .
+
+Voy a poner una captura de cada .css, pero completos están aquí:
+
+style.css:
+![style.css](https://i.gyazo.com/56bfe718df5a8205af5b4daf2f6b1c9c.png)
+
+layout.css:
+![layout.css](https://i.gyazo.com/c6712cdbeb050e4c4593aa5a20468a83.png)
+
+reset.css:
+![reset.css](https://i.gyazo.com/3c9c8e0bc6d813319a38c5e6811ea98c.png)
+
+Voy a poner una captura de la aplicación funcionando:
+![app](https://i.gyazo.com/fd093004550b580ff6efdad9ac85025a.png)
