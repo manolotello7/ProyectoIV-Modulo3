@@ -51,7 +51,7 @@ La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permi
 **En este hito yo me encargo de hacer los css de la página.**
 Los css son las hojas de estilos de toda la pagina web. Haciendo usp, he dado forma a la web en estructuración, color, imagenes, etc... .
 
-Voy a poner una captura de cada .css, pero completos están aquí:
+Voy a poner una captura de cada .css, pero completos están aquí: [https://github.com/javiergama8/Proyecto-IV/tree/master/Codigo/css]
 
 style.css:
 
