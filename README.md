@@ -66,3 +66,8 @@ reset.css:
 
 Voy a poner una captura de la aplicación funcionando:
 ![app](https://i.gyazo.com/fd093004550b580ff6efdad9ac85025a.png)
+
+Para acceder a la web, basta con pinchar en el siguiente enlace:
+
+ - [https://4d92e3c4debb26c3d41ede4785392b1af3f3992f.googledrive.com/host/0B8nOgCL0Aof1SmhSWE1VaFNLOWM/]
+
