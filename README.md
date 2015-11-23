@@ -48,6 +48,19 @@ De la aplicación se encargará @javiergama8, el buscador de dominio lo realizar
 
 La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permiso a cualquier persona u organización para realizar modificaciones sobre la misma, además de poder realizar copias y distribuir tanto la versión original como la modificada, pudiendo cobrar o no por ello, pero siempre permaneciendo el mismo como software libre.
 
+#Segundo Hito.
+
+####Herramienta de construcción:
+
+Para este segundo apartado del hito he creado un Makefile.
+![Makefile](https://i.gyazo.com/f3939d61669acb6787695ea8c71af2f6.png)
+
+####Tests
+Los test nos permiten comprobar que todas las funciones de nuestros proyectos funcionen a lo largo de su desarrollo.
+
+###Tests
+Para realizar los tests hemos realizado test básicos en la clase "User" nombrada añadido:
+![TEST_USER](https://i.gyazo.com/cff50b0479cc29551c92cc14e19aaa50.png)
 
 #Tercer Hito.
 
