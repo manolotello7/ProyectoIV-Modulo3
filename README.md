@@ -87,3 +87,14 @@ Para acceder a la web, basta con pinchar en el siguiente enlace:
 
  - [https://4d92e3c4debb26c3d41ede4785392b1af3f3992f.googledrive.com/host/0B8nOgCL0Aof1SmhSWE1VaFNLOWM/]
 
+#Cuarto Hito
+
+Para este hito hemos creado una cuenta en azure, en la cual nos hemos registrado y hemos creado una máquina virtual, con sistema operativo ubuntu server 12.04.
+
+Despues de crear la máquina virtual, nos conectamos a la máquina e instalamos apache y por ftp subimos a ella los archivos que hemos desarrollado de nuestra pagina web.
+
+A continuación dejo una captura de la web funcionando y un enlace a la misma.
+
+![enlazados](https://i.gyazo.com/6b4dc9d9891644e486d955de1b9db12c.png)
+
+Y aqui el [enlace](http://enlazados-iv.azurewebsites.net/WebPage/site/index.php "web")
